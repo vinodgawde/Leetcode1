@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/vinodgawde/Leetcode1/tree/master/0345-reverse-vowels-of-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/vinodgawde/Leetcode1/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/vinodgawde/Leetcode1/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/vinodgawde/Leetcode1/tree/master/2427-first-letter-to-appear-twice) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/vinodgawde/Leetcode1/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Simulation
 |  |
@@ -40,4 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vinodgawde/Leetcode1/tree/master/0013-roman-to-integer) |
+| [2427-first-letter-to-appear-twice](https://github.com/vinodgawde/Leetcode1/tree/master/2427-first-letter-to-appear-twice) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/vinodgawde/Leetcode1/tree/master/2427-first-letter-to-appear-twice) |
+## Counting
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/vinodgawde/Leetcode1/tree/master/2427-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
