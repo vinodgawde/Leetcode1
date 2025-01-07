@@ -57,8 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vinodgawde/Leetcode1/tree/master/0027-remove-element) |
 | [0485-max-consecutive-ones](https://github.com/vinodgawde/Leetcode1/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/vinodgawde/Leetcode1/tree/master/0792-binary-search) |
+| [2102-find-the-middle-index-in-array](https://github.com/vinodgawde/Leetcode1/tree/master/2102-find-the-middle-index-in-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/vinodgawde/Leetcode1/tree/master/0792-binary-search) |
+## Prefix Sum
+|  |
+| ------- |
+| [2102-find-the-middle-index-in-array](https://github.com/vinodgawde/Leetcode1/tree/master/2102-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
