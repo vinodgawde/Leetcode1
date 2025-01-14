@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/vinodgawde/Leetcode1/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/vinodgawde/Leetcode1/tree/master/0189-rotate-array) |
+| [0414-third-maximum-number](https://github.com/vinodgawde/Leetcode1/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/vinodgawde/Leetcode1/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/vinodgawde/Leetcode1/tree/master/0792-binary-search) |
 | [2102-find-the-middle-index-in-array](https://github.com/vinodgawde/Leetcode1/tree/master/2102-find-the-middle-index-in-array) |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2102-find-the-middle-index-in-array](https://github.com/vinodgawde/Leetcode1/tree/master/2102-find-the-middle-index-in-array) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/vinodgawde/Leetcode1/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
