@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/vinodgawde/Leetcode1/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/vinodgawde/Leetcode1/tree/master/0792-binary-search) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/vinodgawde/Leetcode1/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/vinodgawde/Leetcode1/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2102-find-the-middle-index-in-array](https://github.com/vinodgawde/Leetcode1/tree/master/2102-find-the-middle-index-in-array) |
 ## Binary Search
 |  |
