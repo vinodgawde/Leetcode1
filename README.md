@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vinodgawde/Leetcode1/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/vinodgawde/Leetcode1/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/vinodgawde/Leetcode1/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/vinodgawde/Leetcode1/tree/master/0268-missing-number) |
 | [2032-largest-odd-number-in-string](https://github.com/vinodgawde/Leetcode1/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -47,10 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vinodgawde/Leetcode1/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/vinodgawde/Leetcode1/tree/master/0268-missing-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/vinodgawde/Leetcode1/tree/master/2427-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/vinodgawde/Leetcode1/tree/master/0268-missing-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/vinodgawde/Leetcode1/tree/master/2427-first-letter-to-appear-twice) |
 ## Counting
 |  |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinodgawde/Leetcode1/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vinodgawde/Leetcode1/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/vinodgawde/Leetcode1/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/vinodgawde/Leetcode1/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vinodgawde/Leetcode1/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/vinodgawde/Leetcode1/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/vinodgawde/Leetcode1/tree/master/0485-max-consecutive-ones) |
@@ -73,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/vinodgawde/Leetcode1/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/vinodgawde/Leetcode1/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/vinodgawde/Leetcode1/tree/master/0792-binary-search) |
 ## Prefix Sum
@@ -82,5 +87,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/vinodgawde/Leetcode1/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/vinodgawde/Leetcode1/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
