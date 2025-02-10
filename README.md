@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/vinodgawde/Leetcode1/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/vinodgawde/Leetcode1/tree/master/0268-missing-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/vinodgawde/Leetcode1/tree/master/2427-first-letter-to-appear-twice) |
 ## Counting
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinodgawde/Leetcode1/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vinodgawde/Leetcode1/tree/master/0027-remove-element) |
+| [0136-single-number](https://github.com/vinodgawde/Leetcode1/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/vinodgawde/Leetcode1/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vinodgawde/Leetcode1/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vinodgawde/Leetcode1/tree/master/0283-move-zeroes) |
