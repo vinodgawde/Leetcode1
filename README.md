@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vinodgawde/Leetcode1/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/vinodgawde/Leetcode1/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/vinodgawde/Leetcode1/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/vinodgawde/Leetcode1/tree/master/0268-missing-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/vinodgawde/Leetcode1/tree/master/2427-first-letter-to-appear-twice) |
 ## Bit Manipulation
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vinodgawde/Leetcode1/tree/master/0169-majority-element) |
 | [2427-first-letter-to-appear-twice](https://github.com/vinodgawde/Leetcode1/tree/master/2427-first-letter-to-appear-twice) |
 ## Array
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vinodgawde/Leetcode1/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/vinodgawde/Leetcode1/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/vinodgawde/Leetcode1/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/vinodgawde/Leetcode1/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vinodgawde/Leetcode1/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vinodgawde/Leetcode1/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vinodgawde/Leetcode1/tree/master/0283-move-zeroes) |
@@ -94,6 +97,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vinodgawde/Leetcode1/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/vinodgawde/Leetcode1/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/vinodgawde/Leetcode1/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/vinodgawde/Leetcode1/tree/master/0414-third-maximum-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vinodgawde/Leetcode1/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
