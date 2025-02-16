@@ -2,25 +2,40 @@ class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
         if not nums:
             return 0  
+        num_set =set(nums)
+        longest = 0
+        for num in num_set:
+            if num - 1 not in num_set:
+                curr_num = num
+                count = 1
+                while (curr_num + 1) in num_set:
+                    curr_num += 1
+                    count += 1
+                longest = max(longest, count)
 
-        nums = sorted(nums)  
-        count = 1  
-        largest = 1  
-        lastsmaller = nums[0]  
+        return longest
 
-        for i in range(1, len(nums)):
-            if nums[i] == lastsmaller:  
-                continue
-            elif nums[i] - 1 == lastsmaller:  
-                count += 1
-            else:  
-                largest = max(largest, count)
-                count = 1  
+        # if not nums:
+        #     return 0  
+
+        # nums = sorted(nums)  
+        # count = 1  
+        # largest = 1  
+        # lastsmaller = nums[0]  
+
+        # for i in range(1, len(nums)):
+        #     if nums[i] == lastsmaller:  
+        #         continue
+        #     elif nums[i] - 1 == lastsmaller:  
+        #         count += 1
+        #     else:  
+        #         largest = max(largest, count)
+        #         count = 1  
             
-            lastsmaller = nums[i]  
+        #     lastsmaller = nums[i]  
 
-        largest = max(largest, count)  
-        return largest
+        # largest = max(largest, count)  
+        # return largest
 
 # class Solution:
 #     def liner(self, nums, x):
