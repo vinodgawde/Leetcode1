@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vinodgawde/Leetcode1/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/vinodgawde/Leetcode1/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/vinodgawde/Leetcode1/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/vinodgawde/Leetcode1/tree/master/0560-subarray-sum-equals-k) |
 | [2427-first-letter-to-appear-twice](https://github.com/vinodgawde/Leetcode1/tree/master/2427-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vinodgawde/Leetcode1/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/vinodgawde/Leetcode1/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/vinodgawde/Leetcode1/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/vinodgawde/Leetcode1/tree/master/0560-subarray-sum-equals-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/vinodgawde/Leetcode1/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/vinodgawde/Leetcode1/tree/master/0792-binary-search) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/vinodgawde/Leetcode1/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/vinodgawde/Leetcode1/tree/master/0560-subarray-sum-equals-k) |
 | [2102-find-the-middle-index-in-array](https://github.com/vinodgawde/Leetcode1/tree/master/2102-find-the-middle-index-in-array) |
 ## Sorting
 |  |
