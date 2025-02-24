@@ -1,5 +1,5 @@
 class Solution:
-    def lowerbound(self, nums: List[int], target: int) -> List[int]:
+    def lowerbound(self, nums, target):
         n=len(nums)
         low = 0
         high = n-1
@@ -13,7 +13,7 @@ class Solution:
                 low = mid+1
         return ans 
 
-    def upperbound(self, nums: List[int], target: int) -> List[int]:
+    def upperbound(self, nums, target):
         n=len(nums)
         low = 0
         high = n-1
