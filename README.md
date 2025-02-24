@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinodgawde/Leetcode1/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vinodgawde/Leetcode1/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/vinodgawde/Leetcode1/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vinodgawde/Leetcode1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vinodgawde/Leetcode1/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/vinodgawde/Leetcode1/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/vinodgawde/Leetcode1/tree/master/0053-maximum-subarray) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vinodgawde/Leetcode1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vinodgawde/Leetcode1/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/vinodgawde/Leetcode1/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/vinodgawde/Leetcode1/tree/master/0745-find-smallest-letter-greater-than-target) |
