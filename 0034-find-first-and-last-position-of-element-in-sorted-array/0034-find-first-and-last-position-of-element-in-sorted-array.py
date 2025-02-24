@@ -1,34 +1,37 @@
 class Solution:
-    def lowerbound(self, nums, target):
-        n=len(nums)
+    def firstoccur(self, nums, target):
         low = 0
-        high = n-1
-        ans = n
+        high = len(nums)-1
+        first = -1
         while(low<=high):
             mid = (low + high) // 2
-            if (nums[mid] >= target ):
-                ans = mid
-                high = mid-1
+            if (nums[mid] == target):
+                first = mid
+                high = mid - 1
+            elif (nums[mid] < target):
+                low = mid + 1
             else:
-                low = mid+1
-        return ans 
+                high = mid - 1
+        return first
 
-    def upperbound(self, nums, target):
-        n=len(nums)
+    def lastoccur(self, nums, target):
         low = 0
-        high = n-1
-        ans = n
-        while(low<=high):
+        high = len(nums)-1
+        last = -1
+        while(low <= high):
             mid = (low + high) // 2
-            if (nums[mid] > target ):
-                ans = mid
-                high = mid-1
+            if (nums[mid] == target):
+                last = mid
+                low = mid + 1
+            elif (nums[mid] > target):
+                high = mid - 1
             else:
-                low = mid+1
-        return ans 
+                low = mid + 1
+        return last 
 
     def searchRange(self, nums: List[int], target: int) -> List[int]:
-        lb = self.lowerbound(nums, target)
-        if (lb == len(nums) or nums[lb] != target):
-            return [-1,-1]
-        return [lb,self.upperbound(nums, target)-1]
+        first = self.firstoccur(nums, target)
+        if first == -1:
+            return [-1, -1]
+        last = self.lastoccur(nums, target)
+        return [first,last]
