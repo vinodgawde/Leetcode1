@@ -1,21 +1,19 @@
 class Solution:
-    def search(self, arr, target):
+    def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
+        if not matrix or not matrix[0]:
+            return False
+        n = len(matrix)
+        m = len(matrix[0])
         low = 0
-        high = len(arr)-1
+        high = (n * m) - 1
         while(low <= high):
             mid = low + (high - low) // 2
-            if arr[mid] == target:
+            row = mid // m
+            col = mid % m
+            if matrix[row][col] == target:
                 return True
-            elif arr[mid] < target:
+            elif matrix[row][col] < target:
                 low = mid + 1
             else:
                 high = mid - 1
-    
-
-    def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
-        n = len(matrix)
-        m = len(matrix[0])
-        for i in range(n):
-            if self.search(matrix[i], target):
-               return True
         return False
