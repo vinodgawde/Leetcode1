@@ -11,4 +11,4 @@ class Solution:
                 counter -= 1
                 if counter > 0:
                     ans+=ch
-        return "".join(ans)
+        return ans
