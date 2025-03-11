@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vinodgawde/Leetcode1/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vinodgawde/Leetcode1/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vinodgawde/Leetcode1/tree/master/0345-reverse-vowels-of-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/vinodgawde/Leetcode1/tree/master/0424-longest-repeating-character-replacement) |
 | [0812-rotate-string](https://github.com/vinodgawde/Leetcode1/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/vinodgawde/Leetcode1/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/vinodgawde/Leetcode1/tree/master/2032-largest-odd-number-in-string) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vinodgawde/Leetcode1/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vinodgawde/Leetcode1/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/vinodgawde/Leetcode1/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/vinodgawde/Leetcode1/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/vinodgawde/Leetcode1/tree/master/0560-subarray-sum-equals-k) |
 | [2427-first-letter-to-appear-twice](https://github.com/vinodgawde/Leetcode1/tree/master/2427-first-letter-to-appear-twice) |
 ## Bit Manipulation
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/vinodgawde/Leetcode1/tree/master/1078-remove-outermost-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/vinodgawde/Leetcode1/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
