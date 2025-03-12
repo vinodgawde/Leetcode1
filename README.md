@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vinodgawde/Leetcode1/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vinodgawde/Leetcode1/tree/master/0229-majority-element-ii) |
 | [2427-first-letter-to-appear-twice](https://github.com/vinodgawde/Leetcode1/tree/master/2427-first-letter-to-appear-twice) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vinodgawde/Leetcode1/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Array
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/vinodgawde/Leetcode1/tree/master/2047-find-a-peak-element-ii) |
 | [2102-find-the-middle-index-in-array](https://github.com/vinodgawde/Leetcode1/tree/master/2102-find-the-middle-index-in-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vinodgawde/Leetcode1/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vinodgawde/Leetcode1/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/vinodgawde/Leetcode1/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/vinodgawde/Leetcode1/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2047-find-a-peak-element-ii](https://github.com/vinodgawde/Leetcode1/tree/master/2047-find-a-peak-element-ii) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vinodgawde/Leetcode1/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
 |  |
 | ------- |
